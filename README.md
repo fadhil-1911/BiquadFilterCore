@@ -40,30 +40,28 @@ void loop() {
 }
 
 
+##
+
 LOWPASS
-Passes low frequencies
-Audio smoothing, tone shaping
+Passes low frequencies. Commonly used for audio smoothing and tone shaping.
+
 HIGHPASS
-Removes DC & low tones
-AC coupling, de-rumble
+Removes DC and low tones. Useful for AC coupling and removing low-end rumble.
+
 BANDPASS
-Isolates a specific frequency band
-Resonance, tone selection
+Isolates a specific frequency band. Often used for resonance and tone selection.
+
 NOTCH
-Removes narrow frequency bands
-Hum rejection (e.g., 50 Hz)
+Removes narrow frequency bands, such as power-line hum (e.g. 50 Hz).
+
 PEAK
-Boosts or cuts a frequency band
-EQ band control
+Boosts or cuts a specific frequency band. Ideal for EQ band control.
+
 LOWSHELF
-Boosts or cuts the low range
-Bass EQ
+Boosts or cuts the low-frequency range. Used for bass adjustment or enhancement.
+
 HIGHSHELF
-Boosts or cuts the high range
-Treble EQ
+Boosts or cuts the high-frequency range. Used for treble adjustment or enhancement.
+
 ALLPASS
-Alters phase without changing gain
-Phase or delay compensation
-
-
-
+Changes only the phase response without affecting gain. Useful for delay or phase compensation.
