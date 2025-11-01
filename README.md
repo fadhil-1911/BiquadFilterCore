@@ -1,6 +1,5 @@
 # BiquadFilterCore
 
-# BiquadFilterCore
 
 **BiquadFilterCore** is a lightweight, high-precision digital signal processing (DSP) library for Arduino that implements all standard RBJ biquad filter types.  
 Designed for **audio**, **waveform**, and **vibration** processing — ideal for EQs, synths, or DSP experiments.
