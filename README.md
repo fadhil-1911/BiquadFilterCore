@@ -1,14 +1,3 @@
-Baik! Saya boleh buatkan README.md lengkap untuk BiquadFilterCore yang sertakan ESP32, termasuk:
-	•	Penjelasan semua filter
-	•	Contoh penggunaan untuk ESP32 dan Arduino AVR
-	•	Nota normalisasi input ADC untuk kedua-dua platform
-	•	Contoh sketch penuh
-
-Berikut versi README yang diperbaharui:
-
-⸻
-
-
 # BiquadFilterCore
 
 Version 1.0.0
