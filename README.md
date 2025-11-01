@@ -39,8 +39,9 @@ void loop() {
   Serial.println(output);
 }
 
+---
 
-##
+## Filter Types Overview
 
 LOWPASS
 Passes low frequencies. Commonly used for audio smoothing and tone shaping.
