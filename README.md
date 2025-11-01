@@ -12,7 +12,6 @@ It provides factory functions to create **Low-Pass, High-Pass, Band-Pass, Notch,
 - 8 types of biquad filters: LOWPASS, HIGHPASS, BANDPASS, NOTCH, PEAK, LOWSHELF, HIGHSHELF, ALLPASS
 - Float-based coefficient precision
 - Factory-style constructors for easy filter creation
-- Compatible with Arduino AVR, ESP32, STM32, RP2040, and other embedded platforms
 
 ---
 
