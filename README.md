@@ -116,8 +116,7 @@ void loop() {
 }
 
 ---
-```cpp
-
+```
 
 License
 
