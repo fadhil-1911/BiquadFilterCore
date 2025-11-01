@@ -13,7 +13,7 @@ void setup() {
 
 void loop() {
   // Simulated input: sine wave or analogRead
-  float input = analogRead(A0) / 1023.0f; // Normalized 0..1
+  float input = analogRead(A0);
   float output = lpf.process(input);
 
   Serial.println(output);
