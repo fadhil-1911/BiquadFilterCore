@@ -40,4 +40,30 @@ void loop() {
 }
 
 
+LOWPASS
+Passes low frequencies
+Audio smoothing, tone shaping
+HIGHPASS
+Removes DC & low tones
+AC coupling, de-rumble
+BANDPASS
+Isolates a specific frequency band
+Resonance, tone selection
+NOTCH
+Removes narrow frequency bands
+Hum rejection (e.g., 50 Hz)
+PEAK
+Boosts or cuts a frequency band
+EQ band control
+LOWSHELF
+Boosts or cuts the low range
+Bass EQ
+HIGHSHELF
+Boosts or cuts the high range
+Treble EQ
+ALLPASS
+Alters phase without changing gain
+Phase or delay compensation
+
+
 
